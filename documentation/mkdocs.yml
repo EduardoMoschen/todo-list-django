@@ -1,0 +1,18 @@
+site_name: To Do List
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: purple
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+
+markdown_extensions:
+  - pymdownx.emoji
