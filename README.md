@@ -4,4 +4,4 @@ Bem-vindo ao To-Do List! Esta é uma aplicação simples de lista de tarefas con
 
 ## Documentação
 
-Confira a [documentação aqui](https://eduardomoschen.github.io/projects-django/).
+Confira a [documentação aqui](https://eduardomoschen.github.io/todo-list-django/).
