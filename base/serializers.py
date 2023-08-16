@@ -5,4 +5,4 @@ from base.models import Task
 class TodoSerializer(serializers.ModelSerializer):
     class Meta:
         model = Task
-        fields = ['id', 'user', 'title', 'description', 'complete', 'create']
+        fields = ['id', 'user', 'title', 'description', 'complete', 'created']
